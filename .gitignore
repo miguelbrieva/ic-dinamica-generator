@@ -1,0 +1,9 @@
+node_modules
+dist
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+
+.DS_Store
